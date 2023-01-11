@@ -34,8 +34,8 @@ public class Weapon : MonoBehaviour
     [System.Serializable]
     public class AdvancedSettings
     {
-        public float spreadAngle = 0.0f;
-        public int projectilePerShot = 1;
+        public float spreadAngle = 2.0f;
+        public int projectilePerShot = 8;
         public float screenShakeMultiplier = 1.0f;
     }
 
