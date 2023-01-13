@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 8587774576786866763}
   - component: {fileID: 482135225489720056}
   m_Layer: 9
-  m_Name: Healmatic500
+  m_Name: Deagl-Exterminator
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -59,7 +59,7 @@ MonoBehaviour:
   advancedSettings:
     spreadAngle: 0
     projectilePerShot: 1
-    screenShakeMultiplier: 1
+    screenShakeMultiplier: 10
   FireAnimationClip: {fileID: 7400000, guid: 60d376dc37f821b4ea56e75a4a0ad65a, type: 2}
   ReloadAnimationClip: {fileID: 7400004, guid: 48d0d593c4a87604d8229843efb1af29, type: 3}
   FireAudioClip: {fileID: 8300000, guid: fbc2b14268d715446890c0fcedb6bd18, type: 3}
